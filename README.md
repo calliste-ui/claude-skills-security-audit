@@ -1,8 +1,8 @@
 # Claude Skills — Calliste Domont
+Claude skill for security auditing of software, MCP servers, APIs and repositories using ISC2 CC framework.
 
 A curated collection of structured skills for Claude — built from real consulting and AI workflow practice.
 
-Each skill is a `SKILL.md` file that extends Claude's behavior for a specific domain: security auditing, learning diagnostics, software problem-solving, and more.
 
 ---
 
